@@ -33,6 +33,7 @@ namespace Supermarket_Improve
             Console.WriteLine("= SuPeRmArKeT = DOMINGUES = SuPeRmArKeT =");
             Console.WriteLine("\r\a");
             Console.WriteLine("Press any key to exit ...");
+            Console.WriteLine("\r\a");
             Console.ReadKey();
         }
     }
